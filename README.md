@@ -1,0 +1,1 @@
+I created a web page with a button to record the user's voice, convert it into text, and display the text on the same page.and This text is automatically stored in the database to which the page is linked.
